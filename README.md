@@ -41,6 +41,3 @@ scalability, reliability, and CI/CD best practices.
 - Reduced manual setup effort
 
 ---
-
-### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SahilM1508&show_icons=true&theme=dark)
