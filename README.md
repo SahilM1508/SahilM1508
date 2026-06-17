@@ -1,43 +1,69 @@
 <h1 align="center">Hi 👋, I'm Sahil Mahadik</h1>
-<h3 align="center">Aspiring DevOps Engineer | AWS | Docker | Kubernetes | Linux</h3>
+<h3 align="center">Aspiring DevOps Engineer | AWS | Kubernetes | Docker | Linux</h3>
 
 ---
 
-### 👨‍💻 About Me
-I am an aspiring DevOps professional with a strong foundation in
-Linux, AWS Cloud, Networking, and containerization. I enjoy building,
-automating, and deploying cloud-native applications with a focus on
-scalability, reliability, and CI/CD best practices.
+## 👨‍💻 About Me
 
-📍 Mumbai, India  
-🎓 M.Sc Computer Science (Pursuing)
+I'm an aspiring DevOps Engineer with hands-on experience in AWS Cloud, Linux, containerization, and CI/CD automation. Passionate about building scalable cloud-native applications and automating infrastructure.
+
+📍 Mumbai, India
+🎓 M.Sc Computer Science
 
 ---
 
-### 🛠️ DevOps & Cloud Skills
-- **Cloud:** AWS (EC2, S3, IAM, ALB, EKS)
-- **Containers:** Docker, Kubernetes, Helm
-- **CI/CD:** Git, GitHub, Jenkins (basic)
-- **OS & Networking:** Linux (RHCE), CCNA
-- **Scripting:** Shell, Python
+## 🛠️ Tech Stack
+
+**Cloud:** AWS (EC2, S3, IAM, EKS, Lambda, DynamoDB)
+
+**Containers:** Docker, Kubernetes, Helm
+
+**CI/CD:** Jenkins, Git, GitHub
+
+**IaC & Automation:** Terraform, Ansible, Shell Scripting
+
+**Monitoring:** Prometheus, Grafana, CloudWatch
+
+**OS & Networking:** Linux (RHCE), CCNA
 
 ---
 
-### 📌 Featured DevOps Projects
-🚀 **3-Tier Microservices Deployment on AWS EKS**
-- Deployed RobotShop microservices using Helm
-- Configured EKS cluster and managed node groups
-- Exposed services using AWS LoadBalancer
-- Debugged Pending pods & NotReady nodes
+## 🚀 Featured Projects
 
-📊 **ALB Log Analysis using S3 & Athena**
-- Collected and stored ALB logs in S3
-- Queried logs using Amazon Athena
-- Identified traffic patterns and failed requests
+### Cloud-Native E-Commerce on AWS EKS
 
-🖥️ **Automated Website Deployment using Shell Script**
-- Automated server setup and deployment
-- Configured database and security updates
-- Reduced manual setup effort
+* Deployed a 3-tier application on AWS EKS
+* Built CI/CD pipeline using Jenkins
+* Integrated SonarQube, Trivy, and Nexus
+* Configured Kubernetes autoscaling
+
+### AWS Serverless Web Application
+
+* Built REST APIs using Lambda & API Gateway
+* Used DynamoDB for scalable data storage
+* Implemented IAM security and CloudWatch monitoring
+
+### ALB Log Analysis with Athena
+
+* Stored ALB logs in Amazon S3
+* Queried logs using Athena
+* Analyzed traffic and failed requests
 
 ---
+
+## 📜 Certifications & Training
+
+* DevOps – Nettech India
+* AWS Cloud – Nettech India
+* RHCE – Red Hat Linux
+* CCNA – Cisco Networking
+
+---
+
+## 🤝 Connect With Me
+
+📧 [sahilmahadik1508@gmail.com](mailto:sahilmahadik1508@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/sahil-mahadik-27b2812a1
+
+🐙 GitHub: github.com/SahilM1508
