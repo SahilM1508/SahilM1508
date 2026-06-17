@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Mahadik</h1>
-<h3 align="center">Aspiring DevOps Engineer | AWS | Kubernetes | Docker | Linux</h3>
+<h3 align="center">Aspiring AWS DevOps Engineer | AWS | Jenkins | Docker | Linux</h3>
 
 ---
 
