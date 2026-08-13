@@ -166,15 +166,11 @@ Kirti M. Doongursee College, Mumbai
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilM1508&show_icons=true&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=SahilM1508&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Stats" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilM1508&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahilM1508&layout=compact&theme=tokyonight&hide_border=true" alt="Sahil's Top Languages" /> </p>
 
----
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=SahilM1508&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Streak" /> </p>
 
 ## 🎯 Currently Learning
 
