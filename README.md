@@ -74,180 +74,114 @@ I enjoy building **scalable, automated, and secure cloud infrastructure** using 
 
 # 🚀 Projects
 
-## 1. ☁️ AWS Microservices & CI/CD Capstone
+# 🚀 Projects
 
-**AWS ECS Fargate • Docker • ECR • CodePipeline • CodeDeploy • ALB • RDS • CloudWatch**
+### ☁️ AWS Microservices & CI/CD Capstone
 
-* Built and deployed a **Node.js microservices application** on Amazon ECS Fargate.
-* Containerized services using **Docker** and stored images in Amazon ECR.
-* Created an automated CI/CD pipeline using **AWS CodeCommit, CodePipeline, and CodeDeploy**.
-* Implemented **Blue/Green deployments**.
-* Configured **Application Load Balancer** for traffic distribution.
-* Integrated **CloudWatch** for monitoring.
-* Used **IAM** for secure AWS resource access.
-* Refactored a monolithic application into independent **Customer and Employee microservices**.
+**AWS ECS Fargate • Docker • ECR • CodePipeline • CodeDeploy • ALB • RDS**
+
+* Deployed a Node.js microservices application on **AWS ECS Fargate** using Docker.
+* Built CI/CD with **CodeCommit, CodePipeline and CodeDeploy** with Blue/Green deployment.
+* Configured **ALB, IAM, RDS and CloudWatch** for secure and scalable deployment.
+* Refactored monolithic services into independent Customer and Employee microservices.
 
 ---
 
-## 2. 🛒 Cloud-Native E-Commerce on AWS EKS
+### 🛒 Cloud-Native E-Commerce on AWS EKS
 
 **AWS EKS • Kubernetes • Docker • Jenkins • SonarQube • Trivy • Nexus**
 
-* Developed a **three-tier e-commerce application** with Frontend, Backend, and Database layers.
-* Containerized the application using Docker.
-* Deployed the application on **Amazon EKS** using Kubernetes.
-* Built an end-to-end **Jenkins CI/CD pipeline**.
-* Integrated **SonarQube** for code-quality analysis.
-* Integrated **Trivy** for security scanning.
-* Used **Nexus** for artifact management.
-* Implemented **Horizontal Pod Autoscaler (HPA)**.
-* Configured **Cluster Autoscaler** for dynamic workloads.
+* Deployed a three-tier e-commerce application on **Amazon EKS** using Docker and Kubernetes.
+* Built a **Jenkins CI/CD pipeline** with automated build, testing and deployment.
+* Integrated **SonarQube, Trivy and Nexus** for code quality, security and artifact management.
+* Implemented **HPA and Cluster Autoscaler** for dynamic workloads.
 
 ---
 
-## 3. ⚡ AWS Serverless Web Application
+### ⚡ AWS Serverless Web Application
 
-**AWS Lambda • API Gateway • DynamoDB • S3 • IAM**
+**Lambda • API Gateway • DynamoDB • S3 • IAM**
 
-* Designed and deployed a **serverless web application** using AWS managed services.
+* Built a serverless web application using **Lambda, API Gateway, DynamoDB and S3**.
 * Developed REST APIs using **AWS Lambda and API Gateway**.
-* Used **DynamoDB** for scalable NoSQL data storage.
-* Used Amazon S3 for application/static content.
-* Configured **IAM roles and policies** for secure service access.
-* Demonstrated a scalable serverless architecture without managing traditional servers.
+* Implemented DynamoDB for scalable NoSQL storage.
+* Configured **IAM roles and policies** for secure AWS access.
 
 ---
 
-## 4. 📊 ALB Log Analysis
+### 📊 ALB Log Analysis
 
-**Amazon S3 • Amazon Athena • EC2 • ALB Access Logs**
+**Amazon S3 • Athena • EC2 • ALB Logs**
 
-* Collected **Application Load Balancer access logs**.
-* Stored logs in Amazon S3.
-* Used **Amazon Athena** to query and analyze log data.
-* Analyzed request timestamps, IP addresses, response codes, and user agents.
-* Identified high-traffic sources and failed requests.
-* Used log analysis for troubleshooting and security analysis.
+* Stored **ALB access logs** in Amazon S3.
+* Used **Amazon Athena** to query and analyze traffic logs.
+* Analyzed IPs, response codes, timestamps and user agents.
+* Used log analysis for **troubleshooting, traffic analysis and security insights**.
 
 ---
 
-## 5. 🌐 Travel Website Deployment
+### 🌐 Travel Website Deployment
 
-**Linux • Bash • Shell Scripting • Web Server • Database**
+**Linux • Bash • Shell Scripting**
 
-* Automated travel website deployment on Linux.
-* Created shell scripts for software installation and server configuration.
-* Automated database setup and application deployment.
-* Configured security updates.
-* Demonstrated Linux administration and deployment automation.
+* Automated travel website deployment using **Linux shell scripting**.
+* Automated software installation, server configuration and database setup.
+* Automated application deployment and security updates.
 
 ---
 
-## 6. 🎬 BookMyShow Clone — DevSecOps
+### 🎬 BookMyShow Clone — DevSecOps
 
-**React • Docker • Jenkins • Kubernetes • AWS EKS • SonarQube • Trivy • Prometheus • Grafana**
+**Docker • Jenkins • Kubernetes • AWS EKS • SonarQube • Trivy • Prometheus • Grafana**
 
-* Containerized the application using Docker.
-* Created a **Jenkins CI/CD pipeline**.
-* Integrated **SonarQube** and Quality Gate validation.
-* Added **OWASP Dependency-Check** for dependency analysis.
-* Added **Trivy** security scanning.
-* Built and pushed Docker images.
-* Deployed the application on **Amazon EKS**.
-* Configured Kubernetes Deployment and LoadBalancer.
-* Added **Prometheus/Grafana** monitoring.
-
-### CI/CD Flow
-
-```text
-GitHub
-   ↓
-Jenkins
-   ↓
-SonarQube
-   ↓
-Quality Gate
-   ↓
-OWASP Dependency Check
-   ↓
-Trivy Scan
-   ↓
-Docker Build
-   ↓
-Docker Registry
-   ↓
-Amazon EKS
-   ↓
-Kubernetes Deployment
-```
+* Built a **Jenkins CI/CD pipeline** for automated application deployment.
+* Integrated **SonarQube, OWASP Dependency-Check and Trivy** for DevSecOps.
+* Containerized and deployed the application on **Amazon EKS**.
+* Added **Prometheus and Grafana** for monitoring.
 
 ---
 
-## 7. 🍴 Zomato Clone — DevOps & CI/CD
+### 🍴 Zomato Clone — DevOps
 
-**React • Jenkins • Docker • Kubernetes • SonarQube • Trivy • OWASP Dependency-Check • Docker Scout**
+**Jenkins • Docker • Kubernetes • SonarQube • Trivy • Docker Scout**
 
-* Containerized the application using Docker.
-* Implemented a Jenkins-based CI/CD workflow.
-* Integrated SonarQube code-quality analysis.
-* Added Quality Gate validation.
-* Implemented OWASP Dependency-Check.
-* Added Trivy security scanning.
-* Used Docker Scout for container image analysis.
-* Created Kubernetes Deployment and Service configurations.
-* Configured multiple application replicas.
+* Containerized the application and created a **Jenkins CI/CD pipeline**.
+* Integrated **SonarQube, OWASP Dependency-Check and Trivy**.
+* Used **Docker Scout** for container image analysis.
+* Created Kubernetes deployment and service configurations.
 
 ---
 
-## 8. 🛍️ E-Commerce Application
+### 🛍️ E-Commerce Application
 
 **Java • JSP • Servlets • Maven • Tomcat • Docker • Kubernetes**
 
-* Developed an electronic shopping application using Java/JSP/Servlets.
-* Used Maven for build and dependency management.
-* Packaged the application as a WAR file.
-* Created a Docker-based Tomcat deployment.
-* Created Kubernetes Deployment configuration.
-* Configured multiple application replicas.
-* Configured Kubernetes LoadBalancer service.
-* Implemented application and database functionality.
+* Developed an e-commerce application using **Java, JSP and Servlets**.
+* Built the application using **Maven** and packaged it as a WAR file.
+* Containerized the application with Docker and deployed it using Kubernetes.
+* Configured Kubernetes replicas and LoadBalancer service.
 
 ---
 
-## 9. 🤖 Three-Tier Robot Shop
+### 🤖 Three-Tier Robot Shop
 
-**Microservices • Docker • Kubernetes • Amazon EKS • Helm • GitHub Actions • Istio**
+**Microservices • Docker • Kubernetes • EKS • Helm • GitHub Actions**
 
-> Kubernetes and cloud deployment learning project based on the Robot Shop sample application.
-
-* Worked with a multi-service microservices architecture.
-* Containerized and deployed microservices using Docker and Kubernetes.
-* Worked with **Amazon EKS**.
-* Used **Helm** for Kubernetes deployments.
-* Configured AWS Load Balancer Controller.
-* Worked with IAM/OIDC and AWS EBS CSI integration.
-* Configured Kubernetes Deployments, Services and StatefulSets.
-* Worked with Ingress and Istio.
-* Explored autoscaling and resource management.
+* Deployed a microservices-based application using **Docker and Kubernetes**.
+* Worked with **Amazon EKS, Helm and AWS Load Balancer Controller**.
 * Used **GitHub Actions** for microservice workflows.
-* Worked with monitoring and logging using Prometheus and Fluentd.
-* Used load-generation tools for performance testing.
+* Explored autoscaling, Istio, Prometheus and Fluentd.
 
 ---
 
-## 10. ☁️ Cloud Serverless Project
+### ☁️ Cloud Serverless Project
 
-**AWS Lambda • API Gateway • DynamoDB • IAM • Python • JavaScript**
+**AWS Lambda • API Gateway • DynamoDB • IAM • Python**
 
-* Built a serverless student management application.
-* Developed backend functions using **Python and AWS Lambda**.
-* Created REST APIs using API Gateway.
+* Built a serverless student management application using **AWS Lambda and API Gateway**.
+* Developed backend functions using **Python**.
 * Used DynamoDB for NoSQL data storage.
-* Configured IAM policies for AWS resource access.
-* Built a web-based frontend.
-* Integrated the frontend with serverless backend APIs.
-
----
+* Configured **IAM policies** for secure AWS resource access.
 
 # 🔄 DevOps Workflow
 
