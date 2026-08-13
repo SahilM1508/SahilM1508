@@ -74,8 +74,6 @@ I enjoy building **scalable, automated, and secure cloud infrastructure** using 
 
 # 🚀 Projects
 
-# 🚀 Projects
-
 ### ☁️ AWS Microservices & CI/CD Capstone
 
 **AWS ECS Fargate • Docker • ECR • CodePipeline • CodeDeploy • ALB • RDS**
