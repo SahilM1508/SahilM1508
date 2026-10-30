@@ -103,10 +103,13 @@ I enjoy building reliable, scalable, and secure infrastructure through automatio
 
 ### 🐧 Operating Systems & Networking
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge" />
+</p>
 
+`Linux` `RHEL` `Ubuntu` `TCP/IP` `DNS` `HTTP/HTTPS` `VPC` `Load Balancing` `CCNA Fundamentals`
 `Linux` `RHEL` `Ubuntu` `TCP/IP` `DNS` `HTTP/HTTPS` `VPC` `Load Balancing` `CCNA Fundamentals`
 
 ---
